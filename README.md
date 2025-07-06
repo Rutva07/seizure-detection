@@ -22,9 +22,9 @@ Three EEG datasets were used:
 
 **Sources:**
 
-* Bonn: [Download](https://www.ukbonn.de/epileptologie/arbeitsgruppen/ag-lehnertz-neurophysik/downloads/)
-* CHB-MIT: [PhysioNet](https://physionet.org/content/chbmit/1.0.0/)
-* Zenodo: [Zenodo](https://zenodo.org/records/2547147#.Y7eU5uxBwlI)
+* Bonn: [Data](https://www.ukbonn.de/epileptologie/arbeitsgruppen/ag-lehnertz-neurophysik/downloads/)
+* CHB-MIT: [Data](https://physionet.org/content/chbmit/1.0.0/)
+* Zenodo: [Data](https://zenodo.org/records/2547147#.Y7eU5uxBwlI)
 
 ---
 
