@@ -3,7 +3,8 @@
 ### By: Rutva Patel
 
 > [View Project Report](https://docs.google.com/document/d/1dLc0no6P1MzwTyl_ojyEvjBElL293mQ0/edit?usp=drive_link&ouid=104403530660278921204&rtpof=true&sd=true)  
-> [View Project Slides](https://docs.google.com/presentation/d/19SqXREdeN5bG6xRcLwYiap-2qs_CdmUz-xUhETTbrr0/edit?usp=sharing)
+> [View Project Slides](https://docs.google.com/presentation/d/19SqXREdeN5bG6xRcLwYiap-2qs_CdmUz-xUhETTbrr0/edit?usp=sharing)  
+*To request access to the full code, please email me at rutvapatel7404@gmail.com.*
 ---
 
 ## 📌 Introduction
